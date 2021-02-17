@@ -14,12 +14,13 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
     <img src="https://img.shields.io/badge/Webpack-006272?style=flat-square&logo=Webpack&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe-F40D12?style=flat-square&logo=Adobe&logoColor=white"/><br /><br />
-    [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">☕️ About Me : </h3>
-<p>
+<p align="center">
 * NCS UI/UX 퍼블리셔 양성과정 수료(6개월) <br>
 * FastCamp FE-Dev 온라인 수업(3개월) <br>
 * 노마드 React, Node 학습하며 독학 중 </p>
