@@ -1,13 +1,13 @@
 ## Hi,  I'm Da-BEEN KIM 👋
 <p>안녕하세요</p>
 
-## Hi,  I'm Da-BEEN KIM 
 
-### 📌  Tech Stack
+
+### 📌 Tech Stack 📌
 
 <br>
 
-<div align="justify">
+<div align="center">
     &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/HTML5-7DCDA3?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>&nbsp
@@ -18,21 +18,22 @@
     <img src="https://img.shields.io/badge/Node.js-00A95C?style=flat-square&logo=Node.js&logoColor=black"/>&nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/Webpack-006272?style=flat-square&logo=Webpack&logoColor=white"/>&nbsp
-</div>
+
 
 <br>
 
-### 🔐  Interests 
+### 🔐 Interests 🔐
 * FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
-* NCS UI/UX publisher Edu Course Completion (6 month) 
+* NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
 * FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
 * Nomad coders React online class ( ~ 2021)
-* Do you want to see more? 👾 [click my portfolio](https://www.dothome.com/dabiinii/) 👀
+* Do you want to see more? 👾 [click my portfolio](https://www.dothome.com/dabiinii/) 👀 
 
-&nbsp
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+<div align="right">
     <a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
     <a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a>
+</div>
 </div>
