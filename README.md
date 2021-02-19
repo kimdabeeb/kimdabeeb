@@ -24,19 +24,19 @@
 
 ### 🔐 Interests 🔐
 
-<br>
-
 * FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
 * NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
 * FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
 * Do you want to see more? 👾 [click my portfolio](https://www.dothome.com/dabiinii/) 👀 
 
+
 <br>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="right">
-    <a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/>         </a>&nbsp
-    <a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a>
-</div>
+<br>
+
+<a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/>         </a>&nbsp
+<a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a>
+
 </div>
