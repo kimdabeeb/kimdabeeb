@@ -2,6 +2,8 @@
 
 ### 📌 Tech Stack
 
+<br>
+
 <div align="justify">
     &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/HTML5-7DCDA3?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -15,7 +17,7 @@
     <img src="https://img.shields.io/badge/Webpack-006272?style=flat-square&logo=Webpack&logoColor=white"/>&nbsp
 </div>
 
-<br><br>
+<br>
 
 ### 🔐 Interests 
 * FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
