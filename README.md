@@ -1,6 +1,9 @@
 ## Hi,  I'm Da-BEEN KIM 👋
+<p>안녕하세요</p>
 
-### 📌 Tech Stack
+## Hi,  I'm Da-BEEN KIM 
+
+### 📌  Tech Stack
 
 <br>
 
@@ -19,15 +22,17 @@
 
 <br>
 
-### 🔐 Interests 
+### 🔐  Interests 
 * FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
-* NCS UI/UX 퍼블리셔 양성과정 수료(6개월) 
-* FastCamp 프론트엔드, 노마드 React 완강 
-* See More 👾 [click my portfolio.](https://www.dothome.com/dabiinii/) 👀
+* NCS UI/UX publisher Edu Course Completion (6 month) 
+* FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
+* Nomad coders React online class ( ~ 2021)
+* Do you want to see more? 👾 [click my portfolio](https://www.dothome.com/dabiinii/) 👀
 
+&nbsp
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-    <a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
-    <a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a> &nbsp
+    <a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
+    <a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </div>
