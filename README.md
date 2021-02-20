@@ -1,13 +1,10 @@
-## Hi,  I'm Da-BEEN KIM 👋
+# Hi,  I'm Da-BEEN KIM 👋
 
 
 
 
-📌 Tech Stack 📌
- --
-
+## 📌 Tech Stack 📌
 <br>
-
 <div>
     &nbsp &nbsp &nbsp &nbsp<img src="https://img.shields.io/badge/HTML5-7DCDA3?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/CSS3-E34F26?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
@@ -23,9 +20,8 @@
 
 <br>
 
-🔐 Interests 🔐
---
-
+## 🔐 Interests 🔐
+<br>
 * FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
 * NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
 * FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
@@ -33,7 +29,7 @@
 
 <br>
 
-<div>
+<div align="center">
     <a href="https://www.instagram.com/on_db" blank><img src="https://img.shields.io/badge/Instagram-E9113B?style=flat-square&logo=Instagram&logoColor=white"/>         </a>&nbsp
     <a href="mailto:hobak0278@gmail.com" blank><img src="https://img.shields.io/badge/Gmail-FCFBFA?style=flat-square&logo=Gmail&logoColor=black"/></a>
 </div>
