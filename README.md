@@ -21,11 +21,11 @@
 <br>
 
 ## 🔐 Interests 🔐
-<br>
-* FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
-* NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
-* FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
-* Do you want to see more? [click my portfolio](https://www.dothome.com/dabiinii/) 👀 
+
+- FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
+- NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
+- FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
+- Do you want to see more? [click my portfolio](https://www.dothome.com/dabiinii/) 👀 
 
 <br>
 
