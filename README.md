@@ -22,9 +22,9 @@
 
 ## 🔐 Interests 🔐
 
-- FE-Dev tecchnologies such as Html, CSS, JavaScript, React, etc.
+- FE-Dev tecchnologies such as Vite.js/Vue.js, Typescript, JavaScript, Git, Node, Figma.
+- 멋쟁이사자 front-end dev : React, Node.js, TypeScript, Webpack
 - NCS UI/UX Design&Publisher Edu Course Completion (6 month) 
-- FastCamp front-end dev : React, Node.js, TypeScript, Webpack 
 - Do you want to see more? [click my portfolio](http://ondb.dothome.co.kr/) 👀 
 
 <br>
